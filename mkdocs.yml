@@ -1,5 +1,6 @@
 site_name: Sushant Gnawali
-site_dir : site/
+site_dir : docs/
+docs_dir: src/
 site_url: https://sushantgnawali.com.np
 nav:
   - Introduction: index.md
